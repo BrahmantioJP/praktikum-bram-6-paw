@@ -18,7 +18,7 @@ session_start();
         <p><a href="page_b.php">Go to Page B</a></p>
         <p><a href="logout.php">Logout</a></p>
     <?php else: ?>
-        <p><a href="index.php">Login</a> untuk mengakses halaman terbatas.</p>
+        <p><a href="index.php">Login</a> untuk mengakses halaman ini.</p>
     <?php endif; ?>
 </body>
 </html>
